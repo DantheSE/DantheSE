@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and mobile development
 - 🌱 I’m currently learning front end web development
 - 💞️ I’m looking to collaborate on a new app that I'm working on
-- 📫 How to reach me 
+- 📫 How to reach me: dan.doyin@gmail.com
 
 <!---
 DantheSE/DantheSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
