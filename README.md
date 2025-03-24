@@ -1,3 +1,5 @@
-@DantheSE: software engineer
-Personal email: dan.doyin@gmail.com
-solving problems
+-DantheSE: software engineer
+
+-Personal email: dan.doyin@gmail.com
+
+Solving problems
